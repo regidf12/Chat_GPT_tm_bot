@@ -12,4 +12,4 @@ You can follow me on my social networks:
 
 Бот основан на нейросетях ChatGPT и Dell-E
 
-[!Code]()
+[!Code](https://github.com/Dive-dev/Chat_GPT_tm_bot/blob/main/ray-so-export%20(2).png?raw=true)
