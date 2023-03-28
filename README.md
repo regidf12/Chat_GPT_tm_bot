@@ -1,6 +1,6 @@
 # Welcome to Dive-into-dev  :minidisc:
 
-[![White-prince](https://github.com/Dive-dev/Dive-dev/blob/main/assets/VKHeader2.png?raw=true)](http://white-prince.ru/)
+[![Dive-into-dev](https://github.com/Dive-dev/Dive-dev/blob/main/assets/VKHeader2.png?raw=true)](http://white-prince.ru/)
 
 You can follow me on my social networks:
 
@@ -12,4 +12,4 @@ You can follow me on my social networks:
 
 Бот основан на нейросетях ChatGPT и Dell-E
 
-[![Code](https://github.com/Dive-dev/Chat_GPT_tm_bot/blob/main/ray-so-export%20(2).png?raw=true)
+![Code](https://github.com/Dive-dev/Chat_GPT_tm_bot/blob/main/ray-so-export%20(2).png?raw=true)
