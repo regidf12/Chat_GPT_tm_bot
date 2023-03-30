@@ -15,5 +15,3 @@ You can follow me on my social networks:
 # Chat_GPT_tm_bot :robot:
 
 Бот основан на нейросетях ChatGPT и Dell-E
-
-![Code](https://github.com/Dive-dev/Chat_GPT_tm_bot/blob/main/ray-so-export%20(2).png?raw=true)
