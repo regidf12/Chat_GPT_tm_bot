@@ -2,9 +2,9 @@
 
 # Chat_GPT_tm_bot :robot:
 
-Бот основан на нейросетях ChatGPT и Dell-E.
+The bot is based on ChatGPT and Dell-E neural networks.
 
-Рассмотрим код и шаги для запуска бота.
+Consider the code and steps to run the bot.
 
 ## Основное ⚙️
 
