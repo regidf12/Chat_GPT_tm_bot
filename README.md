@@ -8,7 +8,7 @@ Consider the code and steps to run the bot.
 
 ## Основное ⚙️
 
-  Это код требуемый для работы GPT и Dell
+  This is the code required for GPT and Dell to work
       
        openai.api_key = config.API - токин с сайта OpenAI хранится в config.py
        model_engine = "text-davinci-003" - модель на которой работает GPT
