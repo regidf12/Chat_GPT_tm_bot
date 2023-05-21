@@ -13,7 +13,7 @@ Consider the code and steps to run the bot.
        openai.api_key = config.API - токин с сайта OpenAI хранится в config.py
        model_engine = "text-davinci-003" - модель на которой работает GPT
        
-  Эта часть кода скопированна с документации OpenAI
+ This part of the code is copied from the OpenAI documentation
        
        async def chat_gpt(message: types.Message):
        prompt = str(message.text)
