@@ -28,7 +28,7 @@ Consider the code and steps to run the bot.
         )
         await bot.send_message(message.chat.id, completion.choices[0].text)
        
-  А этот кусок отвечает за работу Dell E
+And this piece is responsible for the work of Dell E
 
     await bot.send_message(message.chat.id, "Ожидайте изображение...")
             prompt = str(message.text)
