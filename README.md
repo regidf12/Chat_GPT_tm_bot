@@ -43,7 +43,7 @@ And this piece is responsible for the work of Dell E
   
    The rest of the code is just the character counting algorithms I came up with, the functions for determining whether the user is subscribed to a group in Tg and the database storing all the data about the user, I can’t say that all these algorithms have been brought to mind, but they are not bad, although they require improvements.
   
-## Запуск бота ℹ️
+## Bot launch ℹ️
 
   1. Получить токин у BotFather
   2. Получить токен в OpenAI
