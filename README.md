@@ -39,9 +39,9 @@ And this piece is responsible for the work of Dell E
             )
             await bot.send_message(message.chat.id, response["data"][0]["url"])
             
-  Но хочу подчеркнуть, то что в web версии telegram изображение приходит ссылкой и никак иначе.
+  But I want to emphasize that in the web version of telegram, the image comes as a link and nothing else.
   
-  Весь остальной код это просто придуманные мной алгоритмы счета символов, функции определения подписан ли пользователь на группу в Tg и БД хронящая в себе все данные о пользователе, не мого сказать, что все эти алгоритмы доведены до ума, но они не плохо, хотя и требуют доработки.
+   The rest of the code is just the character counting algorithms I came up with, the functions for determining whether the user is subscribed to a group in Tg and the database storing all the data about the user, I can’t say that all these algorithms have been brought to mind, but they are not bad, although they require improvements.
   
 ## Запуск бота ℹ️
 
