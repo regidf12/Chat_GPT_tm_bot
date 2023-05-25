@@ -45,16 +45,16 @@ And this piece is responsible for the work of Dell E
   
 ## Bot launch ℹ️
 
-  1. Получить токин у BotFather
-  2. Получить токен в OpenAI
-  3. Вставить в файл config.py
-  4. Зайти в IDE/cmd/notepad++
-  5. И запустить программу стандартным способом для вашей среды
+  1. Get a token from BotFather
+  2. Get a token in OpenAI
+  3. Paste in config.py file
+  4. Go to IDE/cmd/notepad++
+  5. And run the program in the standard way for your environment
  
- Больше проблем возникнуть у вас не должно, а если возникли создайте дисскусию или задайте вопрос на stackoverflow
+  You should not have any more problems, but if you have, create a discussion or ask a question on stackoverflow
  
  
- Бот по ссылке в телеграм пока не работает.
+  The bot on the telegram link is not working yet.
   
 
 Hope this code helps you
