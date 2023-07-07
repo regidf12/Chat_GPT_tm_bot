@@ -1,5 +1,3 @@
-# Welcome to Regidf
-
 # Chat_GPT_tm_bot :robot:
 
 The bot is based on ChatGPT and Dell-E neural networks.
