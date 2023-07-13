@@ -4,7 +4,7 @@ The bot is based on ChatGPT and Dell-E neural networks.
 
 Consider the code and steps to run the bot.
 
-## Основное ⚙️
+## Main ⚙️
 
   This is the code required for GPT and Dell to work
       
