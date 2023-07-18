@@ -53,6 +53,3 @@ And this piece is responsible for the work of Dell E
  
  
   The bot on the telegram link is not working yet.
-  
-
-Hope this code helps you
